@@ -1,0 +1,8 @@
+# بيانات الحملة وصور الفواتير وكلمة سر الأدمن: متترفعش على GitHub أبدًا
+data/
+uploads/
+node_modules/
+*.db
+*.db-wal
+*.db-shm
+.env
